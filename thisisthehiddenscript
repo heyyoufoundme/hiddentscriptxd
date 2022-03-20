@@ -1,1 +1,3 @@
-print("this isnt ready yet please wait for the update to release!")
+local player = game.Players.LocalPlayer
+
+player:Kick("Script down please wait for me to update it")
